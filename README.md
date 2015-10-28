@@ -2,7 +2,7 @@
 
 ### Active Record built from scratch...cool!
 
-'Has many' association built from HasManyOptions class
+'Has many' association built from HasManyOptions class:
 
 ```
 def has_many(name, options = {})
